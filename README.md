@@ -16,8 +16,8 @@ This repository contains weekly lab activities for the Anglia Ruskin University 
 - `LABlogbook.docx`
 
 **Notes:**  
-Each week’s folder will include the Jupyter Notebook, Lab Logbook entry, and any supporting screenshots.
+Each week’s folder will include the Lab Logbook entry, and any supporting screenshots.
 
 ---
 
-© 2025 | Student: *Your Name* | Anglia Ruskin University
+© 2025 | Student: Godson Torgbey | Anglia Ruskin University
